@@ -1,0 +1,34 @@
+2025-10-13T19:32:50+02:00 Array
+(
+    [posted_email] => admin@the90academy.com
+    [posted_is_admin] => 1
+    [result_rows] => 1
+    [user_from_db] => Array
+        (
+            [id] => 8
+            [name] => Administrator
+            [email] => admin@the90academy.com
+            [password] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9p3cAdUuoj3oaZ7rz4aGq
+            [role] => admin
+        )
+
+    [password_verify] => false
+)
+
+2025-10-13T19:32:55+02:00 Array
+(
+    [posted_email] => admin@the90academy.com
+    [posted_is_admin] => 1
+    [result_rows] => 1
+    [user_from_db] => Array
+        (
+            [id] => 8
+            [name] => Administrator
+            [email] => admin@the90academy.com
+            [password] => $2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9p3cAdUuoj3oaZ7rz4aGq
+            [role] => admin
+        )
+
+    [password_verify] => false
+)
+
